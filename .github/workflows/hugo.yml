@@ -17,13 +17,20 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.136.5'
           extended: true
 
       - name: Build
+        run: hugo --minify
+
+      - name: List directory contents
         run: |
-          hugo --logLevel info --minify
-          
+          ls -la
+          ls -la docs/
+
+      - name: Run pagefind
+        run: npx pagefind --site "docs"
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:

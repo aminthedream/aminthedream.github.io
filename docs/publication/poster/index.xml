@@ -5,7 +5,7 @@
     <link>http://localhost:1313/publication/poster/</link>
       <atom:link href="http://localhost:1313/publication/poster/index.xml" rel="self" type="application/rss+xml" />
     <description>Posters</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Posters</title>
@@ -13,11 +13,11 @@
     </image>
     
     <item>
-      <title>Poster Title</title>
+      <title>CSHL Poster Presentation</title>
       <link>http://localhost:1313/publication/poster/poster1/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/poster/poster1/</guid>
-      <description>&lt;p&gt;This is a brief description of the poster.&lt;/p&gt;
+      <description>&lt;p&gt;This poster was presented at the Cold Spring Harbor Laboratory conference.&lt;/p&gt;
 </description>
     </item>
     

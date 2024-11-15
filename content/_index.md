@@ -35,24 +35,20 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I am passionate about making sense of biological data, no matter where it comes from-whether it is unraveling the complexities of cancer, exploring pharmacogenomics, or diving into the genetic footprints left by our ancient ancestors. My work spans a wide range of projects, from decoding the regulatory landscapes of genomes to identifying how genetic variations influence drug responses and contribute to discoveries in precision medicine. Using bioinformatics, data science, and a sprinkle of machine learning magic, I love digging into big, complex datasets and finding the patterns that drive biology. It is the diversity of these projects that excites me—each one is a puzzle, and whether it is cancer biology, genomics, evolution, or drug discovery, I am always up for the challenge of connecting the dots and uncovering the stories hidden in the data.
     design:
       columns: '1'
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Posters
       filters:
         folders:
           - publication
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   - block: collection
     content:
       title: Recent Publications

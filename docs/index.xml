@@ -42,15 +42,6 @@
     </item>
     
     <item>
-      <title>Poster Title</title>
-      <link>http://localhost:1313/publication/poster/poster1/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/poster/poster1/</guid>
-      <description>&lt;p&gt;This is a brief description of the poster.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
       <link>http://localhost:1313/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
@@ -287,7 +278,7 @@
 
 
 
-&lt;div id=&#34;chart-125896347&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-976235814&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -305,7 +296,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-125896347&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-976235814&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -928,6 +919,15 @@ Parallel 4   :         des6, after des4, 1d
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CSHL Poster Presentation</title>
+      <link>http://localhost:1313/publication/poster/poster1/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/poster/poster1/</guid>
+      <description>&lt;p&gt;This poster was presented at the Cold Spring Harbor Laboratory conference.&lt;/p&gt;
 </description>
     </item>
     

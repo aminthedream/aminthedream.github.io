@@ -1,12 +1,15 @@
 ---
-title: "Poster Title"
-date: 2024-01-15
+title: "CSHL Poster Presentation"
+date: 2022-09-14
 authors:
-  - Author Name
-  - Co-Author Name
-event: "Conference/Event Name"
-location: "City, Country"
-url_pdf: "uploads/poster1.pdf"
+  - Your Name
+event: "Cold Spring Harbor Laboratory Conference"
+location: "Cold Spring Harbor, NY"
+url_pdf: "uploads/CSHL_Poster_09142022_90x100.pdf"
+image:
+  filename: "uploads/CABA_2023_Poster.pdf"
+  alt: "Download Poster Image"
+featured: true
 ---
-This is a brief description of the poster.
+This poster was presented at the Cold Spring Harbor Laboratory conference.
 

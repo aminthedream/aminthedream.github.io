@@ -10,8 +10,40 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/publication/poster-1/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/poster/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/your-topic/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/poster-3/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/poster/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/post/get-started/</loc>
@@ -31,10 +63,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/markdown/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -114,16 +142,8 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/poster/poster1/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/poster/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/poster-2/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/preprint/</loc>
@@ -135,10 +155,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/large-language-models/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

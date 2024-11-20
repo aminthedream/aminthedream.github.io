@@ -34,10 +34,26 @@
     </item>
     
     <item>
+      <title>Global and Local Ancestry Estimation in a Large, Captive Baboon Colony</title>
+      <link>http://localhost:1313/publication/poster-1/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/poster-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploration of gene expression changes in cisplatin-resistant high grade serous ovarian cancer</title>
+      <link>http://localhost:1313/publication/poster-3/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/poster-3/</guid>
       <description></description>
     </item>
     
@@ -278,7 +294,7 @@
 
 
 
-&lt;div id=&#34;chart-976235814&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-537849216&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -296,7 +312,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-976235814&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-537849216&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -923,12 +939,11 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>CSHL Poster Presentation</title>
-      <link>http://localhost:1313/publication/poster/poster1/</link>
-      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/poster/poster1/</guid>
-      <description>&lt;p&gt;This poster was presented at the Cold Spring Harbor Laboratory conference.&lt;/p&gt;
-</description>
+      <title>Tissue-specific chromatin accessibility and architecture signature at single-cell level resolution</title>
+      <link>http://localhost:1313/publication/poster-2/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/poster-2/</guid>
+      <description></description>
     </item>
     
     <item>

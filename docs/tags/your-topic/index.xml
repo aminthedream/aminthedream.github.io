@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your Topic | Amin Noorani</title>
+    <link>http://localhost:1313/tags/your-topic/</link>
+      <atom:link href="http://localhost:1313/tags/your-topic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Your Topic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Your Topic</title>
+      <link>http://localhost:1313/tags/your-topic/</link>
+    </image>
+    
+    <item>
+      <title>Global and Local Ancestry Estimation in a Large, Captive Baboon Colony</title>
+      <link>http://localhost:1313/publication/poster-1/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/poster-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploration of gene expression changes in cisplatin-resistant high grade serous ovarian cancer</title>
+      <link>http://localhost:1313/publication/poster-3/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/poster-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tissue-specific chromatin accessibility and architecture signature at single-cell level resolution</title>
+      <link>http://localhost:1313/publication/poster-2/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/poster-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

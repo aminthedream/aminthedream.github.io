@@ -9,7 +9,7 @@ date: "2022-09-20T00:00:00Z"  # Date of presentation
 publishDate: "2022-09-20T00:00:00Z"
 
 # Change to poster type
-publication_types: ["poster"]
+publication_types: ["9"]
 
 # Conference details
 publication: "Cold Spring Harbor Laboratory 2022"

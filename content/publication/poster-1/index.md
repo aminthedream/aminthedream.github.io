@@ -8,6 +8,7 @@ authors:
 date: "2024-10-01T00:00:00Z"  # Date of presentation
 publishDate: "2024-10-01T00:00:00Z"
 
+publication_types: ["9"]  # Add this line to mark it as a poster
 
 # Conference details
 publication: "Canadian Association for Biological Anthropology 2023"

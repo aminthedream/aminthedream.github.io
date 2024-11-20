@@ -45,7 +45,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_types: ["9"]
+        tag: "Poster"  # We'll use tag instead of publication type
     design:
       view: showcase  # or 'card' depending on your preference
       columns: 3
@@ -58,9 +58,13 @@ sections:
         folders:
           - publication
         exclude_featured: false
-        publication_types: ["1", "2", "3"]  # Only show papers, articles, and preprints
+        publication_types: ["1", "2", "3"]
+        tag: "Paper"  # Add this line to exclude posters 
     design:
       view: citation
+      buttons:
+        - name: Preprint
+          url: url_preprint
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

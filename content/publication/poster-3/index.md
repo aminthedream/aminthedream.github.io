@@ -9,7 +9,7 @@ date: "2023-12-05T00:00:00Z"  # Date of presentation
 publishDate: "2023-12-05T00:00:00Z"
 
 # Change to poster type
-publication_types: ["poster"]
+publication_types: ["9"]
 
 # Conference details
 publication: "The American Society for Cell Biology 2023"

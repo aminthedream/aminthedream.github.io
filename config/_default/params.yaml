@@ -25,7 +25,8 @@ marketing:
   verification:
     google: ''
     baidu: ''
-
+  icon:
+    icon: 'favicon.ico'  # Add this for the browser tab icon
 # Site header
 header:
   navbar:

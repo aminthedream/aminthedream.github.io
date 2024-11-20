@@ -4,6 +4,8 @@ authors:
 - Christopher Kendall
 - admin
 - Guilherme Debortoli
+- Esteban Parra
+- Bence Viola
 - Michael A Schillaci
 
 date: "2024-08-01T00:00:00Z"

@@ -2,6 +2,8 @@
 title: "Tissue-specific chromatin accessibility and architecture signature at single-cell level resolution"
 authors:
 - admin  # This will be your name
+- Ayush T Raman
+- Elias Orouji
 # Add other authors if needed
 # - Author Name
 

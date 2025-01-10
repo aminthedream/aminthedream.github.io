@@ -1,7 +1,9 @@
 ---
 title: "Global and Local Ancestry Estimation in a Large, Captive Baboon Colony"
 authors:
+- Christopher Kendall
 - admin  # This will be your name
+- Bence Viola
 # Add other authors if needed
 # - Author Name
 

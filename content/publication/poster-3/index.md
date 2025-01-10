@@ -2,6 +2,8 @@
 title: "Exploration of gene expression changes in cisplatin-resistant high grade serous ovarian cancer"
 authors:
 - admin  # This will be your name
+- Margaritha Bayrsan
+- Michael F Olson
 # Add other authors if needed
 # - Author Name
 

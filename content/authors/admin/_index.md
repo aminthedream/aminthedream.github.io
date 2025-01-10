@@ -34,9 +34,7 @@ profiles:
     url: 'mailto:aminnoorani@hotmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/AminNoorani
   - icon: brands/github
     url: https://github.com/aminthedream
   - icon: brands/linkedin
@@ -56,20 +54,24 @@ interests:
 education:
   - area: M.S. Molecule Science
     institution: Toronto Metropolitan University
-    date_start: 2022-09-09
-    date_end: 2024-10-17
+    date_start: '2022-09-09'
+    date_end: '2024-10-17'
     summary: |
       Thesis on Identifying Actionable Targets for MRCK Inhibition with BDP9066 for Ovarian Cancer. Supervised by [Dr. Michael Olson](https://www.olsonlab.ca/). 
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+
   - area: BSc Biology/Bioinformatics
     institution: Sapienza University of Rome
+    date_start: '2018-09-01'
+    date_end: '2022-06-01'
+    summary: |
+      Studied Biology with a focus on Bioinformatics
+
+
 work:
   - position: Bioinformtics Analyst
     company_name: Epigenome Lab at Princess Margaret Cancer Centre
-    company_url: ''
-    company_logo: ''
+    company_url: 'https://www.epigenomelab.com/'
+    company_logo: 'static/uploads/epigenomeLab.png'
     date_start: 2022-01-22
     date_end: ''
     summary: |2-
@@ -77,9 +79,10 @@ work:
       - Data Integration Specialist: Performs comprehensive analysis of NGS data at single-cell and bulk levels, integrating machine learning approaches with modalities such as methylation, multiome, and Hi-C.
       - Pipeline & Workflow Developer: Designs and implements bioinformatics workflows, transforming raw data into actionable insights and visualizations, leveraging high-performance computing and machine learning models.
       - Technical Expert & Scientific Communicator: Resolves complex data challenges, keeps current with the latest tools and techniques, and leads research publications, translating scientific findings into impactful contributions.
+      - Under the supervision of: [Dr. Elias Orouji](https://www.epigenomelab.com/)
   - position: Research Assistant
     company_name: University of Toronto
-    company_url: ''
+    company_url: 'https://www.anthropology.utoronto.ca/'
     company_logo: ''
     date_start: 2021-04-01
     date_end: 2021-12-10

@@ -39,18 +39,6 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
-    content:
-      title: Posters
-      filters:
-        folders:
-          - publication
-        tag: "Poster"  # We'll use tag instead of publication type
-    design:
-      view: showcase  # or 'card' depending on your preference
-      columns: 3
-      flip_alt_rows: false
-  - block: collection
     content:
       title: Recent Publications
       text: ""
@@ -59,7 +47,7 @@ sections:
           - publication
         exclude_featured: false
         publication_types: ["1", "2", "3"]
-        tag: "Paper"  # Add this line to exclude posters 
+      count: 3  # Note: moved outside of filters 
     design:
       view: citation
       buttons:

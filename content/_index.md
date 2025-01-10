@@ -15,9 +15,6 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -35,7 +32,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am passionate about making sense of biological data, no matter where it comes from-whether it is unraveling the complexities of cancer, exploring pharmacogenomics, or diving into the genetic footprints left by our ancient ancestors. My work spans a wide range of projects, from decoding the regulatory landscapes of genomes to identifying how genetic variations influence drug responses and contribute to discoveries in precision medicine. Using bioinformatics, data science, and a sprinkle of machine learning magic, I love digging into big, complex datasets and finding the patterns that drive biology. It is the diversity of these projects that excites me—each one is a puzzle, and whether it is cancer biology, genomics, evolution, or drug discovery, I am always up for the challenge of connecting the dots and uncovering the stories hidden in the data.
+        Throughout my research career, I have taken on diverse roles where I have led computational analyses of complex next-generation sequencing data, including types such as RNA-Seq, ChIP-Seq, CUT&RUN, ATAC-Seq, and Hi-C at both single-cell and bulk resolutions. I specialize in developing and benchmarking bioinformatics pipelines to process large-scale datasets and implementing reproducible workflows for integrating multi-omics data from various cancer research projects, such as ovarian and colorectal cancers. My goal is to contribute significantly to advancements in the field. 
     design:
       columns: '1'
   - block: collection

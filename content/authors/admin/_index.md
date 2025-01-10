@@ -97,7 +97,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Bash/Unix
         description: ''
         percent: 90
         icon: code-bracket
@@ -105,9 +105,9 @@ skills:
         description: ''
         percent: 80
         icon: chart-bar
-      - name: Bash
+      - name: Python
         description: ''
-        percent: 90
+        percent: 60
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -115,15 +115,15 @@ skills:
     items:
       - name: Soccer
         description: ''
-        percent: 60
+        percent: 100
         icon: person-simple-walk
       - name: History
         description: ''
         percent: 100
         icon: cat
-      - name: Finance
+      - name: Travel
         description: ''
-        percent: 80
+        percent: 100
         icon: camera
 
 languages:
@@ -132,7 +132,7 @@ languages:
   - name: Persian
     percent: 100
   - name: French
-    percent: 25
+    percent: 35
   - name: Italian
     percent: 25
 
@@ -170,4 +170,4 @@ awards:
 
 ## About Me
 
-A bioinformatician by day, data alchemist by night! Transforming raw numbers and sequences into biological "aha" moments, they navigate the wild world of genomes, playing matchmaker between biology and computation. Armed with a keyboard and a knack for spotting patterns, they wrangle data with a sense of humor and a dash of flair, turning complexity into clarity—one dataset at a time. Who knew bioinformatics could be this fun?
+I am a bioinformatician with a strong focus on studying how genes are organized and regulated within cells. My work involves analyzing data from various DNA and RNA experiments to understand genetic functions and structures. I use programming languages like Python and R to build tools that help in analyzing large amounts of genetic data efficiently. I develop and improve bioinformatics pipelines that streamline the process of data analysis, making it more efficient for other scientists to access and interpret their genetic data. My interest in how 3D genome architecture is arranged and how it influences its function, helping uncover new insights that could lead to a better understanding of diseases and their treatments. I have written several research articles and contribute regularly to scientific discussions.

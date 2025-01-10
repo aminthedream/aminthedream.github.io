@@ -29,7 +29,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Research'
       subtitle: ''
       text: |-
         Throughout my research career, I have taken on diverse roles where I have led computational analyses of complex next-generation sequencing data, including types such as RNA-Seq, ChIP-Seq, CUT&RUN, ATAC-Seq, and Hi-C at both single-cell and bulk resolutions. I specialize in developing and benchmarking bioinformatics pipelines to process large-scale datasets and implementing reproducible workflows for integrating multi-omics data from various cancer research projects, such as ovarian and colorectal cancers. My goal is to contribute significantly to advancements in the field. 

@@ -41,11 +41,11 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© Amin Nooranikhojasteh 2024. This work is licensed under {license}'
+    notice: '© Amin Nooranikhojasteh 2025'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization

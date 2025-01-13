@@ -52,7 +52,7 @@ interests:
 
 
 education:
-  - area: MSc. Molecule Science
+  - area: MSc. Molecular Science
     institution: Toronto Metropolitan University
     date_start: '2022-09-09'
     date_end: '2024-10-17'

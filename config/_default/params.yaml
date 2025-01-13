@@ -7,6 +7,7 @@
 appearance:
   mode: system
   color: emerald
+  favicon: favicon.png # Add this line
 
 # SEO
 marketing:
@@ -26,7 +27,7 @@ marketing:
     google: ''
     baidu: ''
   icon:
-    icon: 'favicon.ico'  # Add this for the browser tab icon
+    icon: 'favicon.png'  # Add this for the browser tab icon
 # Site header
 header:
   navbar:

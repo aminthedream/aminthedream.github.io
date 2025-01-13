@@ -52,14 +52,14 @@ interests:
 
 
 education:
-  - area: M.S. Molecule Science
+  - area: MSc. Molecule Science
     institution: Toronto Metropolitan University
     date_start: '2022-09-09'
     date_end: '2024-10-17'
     summary: |
       Thesis on Identifying Actionable Targets for MRCK Inhibition with BDP9066 for Ovarian Cancer. Supervised by [Dr. Michael Olson](https://www.olsonlab.ca/). 
 
-  - area: BSc Biology/Bioinformatics
+  - area: BSc. Biology/Bioinformatics
     institution: Sapienza University of Rome
     date_start: '2018-09-01'
     date_end: '2022-06-01'

@@ -8,3 +8,13 @@ features:
     provider: pagefind
     options:
       site_path: 'docs'
+
+params:
+  marketing:
+    site_type: Person
+    local_business_type: ''
+  appearance:
+    favicon: 'favicon.png'
+    icon:
+      pack:
+        ai: true

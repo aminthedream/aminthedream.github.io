@@ -7,7 +7,7 @@ sections:
     content:
       title: Education
       items:
-        - title: M.S. Molecule Science
+        - title: MSc Molecule Science
           company: Toronto Metropolitan University
           company_url: ''
           company_logo: ''

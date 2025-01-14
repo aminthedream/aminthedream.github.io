@@ -7,14 +7,14 @@ authors:
 # Add other authors if needed
 # - Author Name
 
-date: "2024-10-01T00:00:00Z"  # Date of presentation
-publishDate: "2024-10-01T00:00:00Z"
+date: "2023-10-01T00:00:00Z"  # Date of presentation
+publishDate: "2023-10-01T00:00:00Z"
 
 publication_types: ["9"]  # Add this line to mark it as a poster
 
 # Conference details
 publication: "Canadian Association for Biological Anthropology 2023"
-publication_short: "CABA 2024"
+publication_short: "CABA 2023"
 
 abstract: "We examined through global and local ancestry genetics techniques over 800 captive baboons from the Southwest National Primate Research Centre in San Antonio, Texas. We identified that over 10% of the samples were incorrectly labelled at the species level due to cryptic admixture in the past. We also tested the validity of two different ancestry analysis and phasing and imputation pipelines."
 

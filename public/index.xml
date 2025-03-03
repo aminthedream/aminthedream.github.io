@@ -34,6 +34,15 @@
     </item>
     
     <item>
+      <title>My First Blog Post</title>
+      <link>https://aminthedream.github.io/blog/2025/03/my-first-blog-post/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://aminthedream.github.io/blog/2025/03/my-first-blog-post/</guid>
+      <description>&lt;p&gt;In this post, I&amp;rsquo;ll share thoughts about my journey in tech, research, and personal growth. The full story begins here&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>My Second Blog Post</title>
       <link>https://aminthedream.github.io/blog/2025/03/my-second-blog-post/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
@@ -88,15 +97,6 @@
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       <guid>https://aminthedream.github.io/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>My First Blog Post</title>
-      <link>https://aminthedream.github.io/blog/2024/03/my-first-blog-post/</link>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://aminthedream.github.io/blog/2024/03/my-first-blog-post/</guid>
-      <description>&lt;p&gt;In this post, I&amp;rsquo;ll share thoughts about my journey in tech, research, and personal growth. The full story begins here&amp;hellip;&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -344,7 +344,7 @@
 
 
 
-&lt;div id=&#34;chart-514398672&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-879632154&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -362,7 +362,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-514398672&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-879632154&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

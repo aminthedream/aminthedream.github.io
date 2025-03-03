@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genetics | Amin Noorani</title>
+    <link>https://aminthedream.github.io/tags/genetics/</link>
+      <atom:link href="https://aminthedream.github.io/tags/genetics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Genetics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aminthedream.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Genetics</title>
+      <link>https://aminthedream.github.io/tags/genetics/</link>
+    </image>
+    
+    <item>
+      <title>Archaic Adaptive Introgression in Modern Human Reproductive Genes</title>
+      <link>https://aminthedream.github.io/publication/archaic-adaptive-2024/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://aminthedream.github.io/publication/archaic-adaptive-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring adaptive introgression in modern human circadian rhythm genes</title>
+      <link>https://aminthedream.github.io/publication/circadian-rhythm-2024/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://aminthedream.github.io/publication/circadian-rhythm-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global and local ancestry estimation in a captive baboon colony</title>
+      <link>https://aminthedream.github.io/publication/baboon-colony-2024/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://aminthedream.github.io/publication/baboon-colony-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

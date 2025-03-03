@@ -63,6 +63,12 @@ jobs:
       uses: actions/upload-pages-artifact@v3
       with:
         path: ./docs  # Changed from ./public to ./docs
+    - name: Verify artifact
+      run: |
+        echo "Looking for artifact..."
+        ls -la $RUNNER_TEMP
+        find $RUNNER_TEMP -name "github-pages*" -type f
+
 
   deploy:
     if: github.repository_owner != 'HugoBlox'

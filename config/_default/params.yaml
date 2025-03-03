@@ -17,6 +17,7 @@ marketing:
     org_name: ''
     description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
     twitter: 'GetResearchDev'
+    blog_section_description: 'Personal blog covering various topics and insights' 
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -60,3 +61,11 @@ features:
     enable: false
   privacy_pack:
     enable: false
+  # New blog-related features
+  blog:
+    show_related: true
+    show_date: true
+    show_categories: true
+    show_tags: true
+    post_view: 'classic'  # Options: 'classic', 'card', 'compact'
+    list_style: 'grid'    # Options: 'list', 'grid', 'masonry'

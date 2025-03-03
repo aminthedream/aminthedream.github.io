@@ -20,7 +20,7 @@ removePathAccents: true
 ############################
 ## ADVANCED
 ############################
-publishDir: public
+publishDir: docs
 build:
   writeStats: true
 enableGitInfo: false

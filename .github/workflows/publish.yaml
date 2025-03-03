@@ -48,6 +48,17 @@ jobs:
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
     - name: Generate Pagefind search index
       run: npx pagefind --site "docs"  # Changed from "public" to "docs"
+
+    - name: Debug directories
+      run: |
+        echo "Current directory contents:"
+        ls -la
+        echo "Docs directory exists?"
+        test -d docs && echo "Yes" || echo "No"
+        echo "Public directory exists?"
+        test -d public && echo "Yes" || echo "No"
+        echo "Docs directory contents (if exists):"
+        test -d docs && ls -la docs/ || echo "Directory doesn't exist"
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:

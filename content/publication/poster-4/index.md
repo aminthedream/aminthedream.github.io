@@ -28,7 +28,7 @@ featured: false
 
 # Links - the PDF will be automatically available
 url_pdf: "poster.pdf"  # This will link to your local PDF file
-url_poster: ""
+url_poster: "10.1158/1538-7445.AM2025-215"
 url_slides: ""
 url_video: ""
 

@@ -27,10 +27,16 @@ tags:
 featured: false
 
 # Links - the PDF will be automatically available
-url_pdf: "poster.pdf"  # This will link to your local PDF file
-url_poster: "10.1158/1538-7445.AM2025-215"
+url_pdf: "/Users/aminnn/Desktop/Amin_Repos/aminthedream.github.io/content/publication/poster-4/poster.pdf"  # This will link to your local PDF file
+url_poster: ""
 url_slides: ""
 url_video: ""
+
+links:
+- name: Link
+  url: "https://aacrjournals.org/cancerres/article/85/8_Supplement_1/215/755404/Abstract-215-A-novel-framework-for-deciphering-3D"
+
+
 
 # If you have a preview image (optional)
 image:

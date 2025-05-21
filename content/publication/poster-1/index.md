@@ -33,7 +33,7 @@ url_video: ""
 
 # If you have a preview image (optional)
 image:
-  placement: 2
+  placement: 3
   caption: 'Poster preview'
   focal_point: "Center"
   preview_only: false

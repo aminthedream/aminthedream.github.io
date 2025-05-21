@@ -8,8 +8,8 @@ authors:
 # Add other authors if needed
 # - Author Name
 
-date: "2025-05-27T00:00:00Z"  # Date of presentation
-publishDate: "2025-05-27T00:00:00Z"
+date: "2025-04-27T00:00:00Z"  # Date of presentation
+publishDate: "2025-04-27T00:00:00Z"
 
 publication_types: ["9"]  # Add this line to mark it as a poster
 
@@ -22,7 +22,7 @@ abstract: "We developed and applied a novel HiC-ECC workflow to enhance chromati
 
 tags:
 - Poster
-- Your Topic
+- Cancer
 
 featured: false
 

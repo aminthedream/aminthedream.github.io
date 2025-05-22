@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DNA Repair | Amin Noorani</title>
-    <link>http://localhost:1313/tags/dna-repair/</link>
-      <atom:link href="http://localhost:1313/tags/dna-repair/index.xml" rel="self" type="application/rss+xml" />
+    <title>DNA Repair | AN</title>
+    <link>https://aminthedream.github.io/tags/dna-repair/</link>
+      <atom:link href="https://aminthedream.github.io/tags/dna-repair/index.xml" rel="self" type="application/rss+xml" />
     <description>DNA Repair</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://aminthedream.github.io/media/icon_hu7729264130191091259.png</url>
       <title>DNA Repair</title>
-      <link>http://localhost:1313/tags/dna-repair/</link>
+      <link>https://aminthedream.github.io/tags/dna-repair/</link>
     </image>
     
     <item>
       <title>Targeting PRMT5-Mediated DNA Repair Pathway in Extra-Nodal NK/T-Cell Lymphoma (ENKTL)</title>
-      <link>http://localhost:1313/publication/targeting-prmt5/</link>
+      <link>https://aminthedream.github.io/publication/targeting-prmt5/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/targeting-prmt5/</guid>
+      <guid>https://aminthedream.github.io/publication/targeting-prmt5/</guid>
       <description></description>
     </item>
     

@@ -21,7 +21,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: background.jpeg
           filters:
             brightness: 1.0
           size: cover
@@ -32,9 +32,11 @@ sections:
       title: 'Research'
       subtitle: ''
       text: |-
-        Throughout my research career, I have taken on diverse roles where I have led computational analyses of complex next-generation sequencing data, including types such as RNA-Seq, ChIP-Seq, CUT&RUN, ATAC-Seq, and Hi-C at both single-cell and bulk resolutions. I specialize in developing and benchmarking bioinformatics pipelines to process large-scale datasets and implementing reproducible workflows for integrating multi-omics data from various cancer research projects, such as ovarian and colorectal cancers. My goal is to contribute significantly to advancements in the field. 
+        Throughout my research career, I have taken on diverse roles where I have led computational analyses of complex next-generation sequencing data, including types such as RNA-Seq, ChIP-Seq, CUT&RUN, ATAC-Seq, and Hi-C at both single-cell and bulk resolutions. I specialize in developing and benchmarking bioinformatics pipelines to process large-scale datasets and implementing reproducible workflows for integrating multi-omics data from various research studies. My goal is to contribute significantly to advancements in the field. 
     design:
-      columns: '1'
+      columns: '12'  # Bootstrap-style 12-column grid
+    
+
   - block: collection
     content:
       title: Recent Publications

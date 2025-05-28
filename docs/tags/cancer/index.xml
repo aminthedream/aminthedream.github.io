@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cancer | AN</title>
-    <link>https://aminthedream.github.io/tags/cancer/</link>
-      <atom:link href="https://aminthedream.github.io/tags/cancer/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/cancer/</link>
+      <atom:link href="http://localhost:1313/tags/cancer/index.xml" rel="self" type="application/rss+xml" />
     <description>Cancer</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aminthedream.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Cancer</title>
-      <link>https://aminthedream.github.io/tags/cancer/</link>
+      <link>http://localhost:1313/tags/cancer/</link>
     </image>
     
     <item>
       <title>A novel framework for deciphering 3D genome structure in colorectal cancer</title>
-      <link>https://aminthedream.github.io/publication/poster-4/</link>
+      <link>http://localhost:1313/publication/poster-4/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://aminthedream.github.io/publication/poster-4/</guid>
+      <guid>http://localhost:1313/publication/poster-4/</guid>
       <description></description>
     </item>
     

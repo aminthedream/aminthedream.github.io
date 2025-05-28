@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>9 | AN</title>
-    <link>https://aminthedream.github.io/publication_types/9/</link>
-      <atom:link href="https://aminthedream.github.io/publication_types/9/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/9/</link>
+      <atom:link href="http://localhost:1313/publication_types/9/index.xml" rel="self" type="application/rss+xml" />
     <description>9</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aminthedream.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>9</title>
-      <link>https://aminthedream.github.io/publication_types/9/</link>
+      <link>http://localhost:1313/publication_types/9/</link>
     </image>
     
     <item>
       <title>A novel framework for deciphering 3D genome structure in colorectal cancer</title>
-      <link>https://aminthedream.github.io/publication/poster-4/</link>
+      <link>http://localhost:1313/publication/poster-4/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://aminthedream.github.io/publication/poster-4/</guid>
+      <guid>http://localhost:1313/publication/poster-4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploration of gene expression changes in cisplatin-resistant high grade serous ovarian cancer</title>
-      <link>https://aminthedream.github.io/publication/poster-3/</link>
+      <link>http://localhost:1313/publication/poster-3/</link>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://aminthedream.github.io/publication/poster-3/</guid>
+      <guid>http://localhost:1313/publication/poster-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global and Local Ancestry Estimation in a Large, Captive Baboon Colony</title>
-      <link>https://aminthedream.github.io/publication/poster-1/</link>
+      <link>http://localhost:1313/publication/poster-1/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://aminthedream.github.io/publication/poster-1/</guid>
+      <guid>http://localhost:1313/publication/poster-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tissue-specific chromatin accessibility and architecture signature at single-cell level resolution</title>
-      <link>https://aminthedream.github.io/publication/poster-2/</link>
+      <link>http://localhost:1313/publication/poster-2/</link>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://aminthedream.github.io/publication/poster-2/</guid>
+      <guid>http://localhost:1313/publication/poster-2/</guid>
       <description></description>
     </item>
     

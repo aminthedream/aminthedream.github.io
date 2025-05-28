@@ -2,7 +2,7 @@
 title: "A novel framework for deciphering 3D genome structure in colorectal cancer"
 authors:
 - admin
-- Jakob Zerbs  # This will be your name
+- Jakob Zerbs  
 - Ghazaleh Tavallaee
 - Elias Orouji
 # Add other authors if needed

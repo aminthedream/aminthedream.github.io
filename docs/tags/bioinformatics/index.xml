@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bioinformatics | AN</title><link>https://aminthedream.github.io/tags/bioinformatics/</link><atom:link href="https://aminthedream.github.io/tags/bioinformatics/index.xml" rel="self" type="application/rss+xml"/><description>Bioinformatics</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate><image><url>https://aminthedream.github.io/media/icon_hu7729264130191091259.png</url><title>Bioinformatics</title><link>https://aminthedream.github.io/tags/bioinformatics/</link></image><item><title>Benchmarking Peak Calling Methods for CUT&amp;RUN</title><link>https://aminthedream.github.io/publication/cut-and-run-2024/</link><pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate><guid>https://aminthedream.github.io/publication/cut-and-run-2024/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bioinformatics | AN</title>
+    <link>http://localhost:1313/tags/bioinformatics/</link>
+      <atom:link href="http://localhost:1313/tags/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bioinformatics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Bioinformatics</title>
+      <link>http://localhost:1313/tags/bioinformatics/</link>
+    </image>
+    
+    <item>
+      <title>Benchmarking Peak Calling Methods for CUT&amp;RUN</title>
+      <link>http://localhost:1313/publication/cut-and-run-2024/</link>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cut-and-run-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

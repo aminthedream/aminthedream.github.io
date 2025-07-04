@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | AN</title>
-    <link>http://localhost:1313/publication_types/2/</link>
-      <atom:link href="http://localhost:1313/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aminthedream.github.io/publication_types/2/</link>
+      <atom:link href="https://aminthedream.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://aminthedream.github.io/media/icon_hu7729264130191091259.png</url>
       <title>2</title>
-      <link>http://localhost:1313/publication_types/2/</link>
+      <link>https://aminthedream.github.io/publication_types/2/</link>
     </image>
     
     <item>
       <title>Targeting PRMT5-Mediated DNA Repair Pathway in Extra-Nodal NK/T-Cell Lymphoma (ENKTL)</title>
-      <link>http://localhost:1313/publication/targeting-prmt5/</link>
+      <link>https://aminthedream.github.io/publication/targeting-prmt5/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/targeting-prmt5/</guid>
+      <guid>https://aminthedream.github.io/publication/targeting-prmt5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global and local ancestry estimation in a captive baboon colony</title>
-      <link>http://localhost:1313/publication/baboon-colony-2024/</link>
+      <link>https://aminthedream.github.io/publication/baboon-colony-2024/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/baboon-colony-2024/</guid>
+      <guid>https://aminthedream.github.io/publication/baboon-colony-2024/</guid>
       <description></description>
     </item>
     

@@ -34,6 +34,14 @@
     </item>
     
     <item>
+      <title>Chromatin accessibility Landscapes Define Stromal Cell Identities Across Tissues</title>
+      <link>https://aminthedream.github.io/publication/scatac-mouse/</link>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://aminthedream.github.io/publication/scatac-mouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pre-Transcription</title>
       <link>https://aminthedream.github.io/blog/2025/07/pre-transcription/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
@@ -365,7 +373,7 @@ At the promoter (which may or may not contain a TATA box or GC box), general tra
 
 
 
-&lt;div id=&#34;chart-276483195&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-649721358&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -383,7 +391,7 @@ At the promoter (which may or may not contain a TATA box or GC box), general tra
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-276483195&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-649721358&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

@@ -7,7 +7,7 @@ authors:
 - Michael A. Schillaci 
 - Bence Viola
 
-date: "2024-11-01T00:00:00Z"
+date: "2025-08-01T00:00:00Z"
 publishDate: "2025-08-01T00:00:00Z"
 
 publication_types: ["3"]  # Preprint

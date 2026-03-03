@@ -42,6 +42,22 @@
     </item>
     
     <item>
+      <title>Archaic Adaptive Introgression in Modern Human Reproductive Genes</title>
+      <link>https://aminthedream.github.io/publication/archaic-adaptive-circadian-2025/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://aminthedream.github.io/publication/archaic-adaptive-circadian-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Archaic Adaptive Introgression in Modern Human Reproductive Genes</title>
+      <link>https://aminthedream.github.io/publication/archaic-adaptive-2024/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://aminthedream.github.io/publication/archaic-adaptive-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pre-Transcription</title>
       <link>https://aminthedream.github.io/blog/2025/07/pre-transcription/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
@@ -93,22 +109,6 @@ At the promoter (which may or may not contain a TATA box or GC box), general tra
       <link>https://aminthedream.github.io/publication/targeting-prmt5/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://aminthedream.github.io/publication/targeting-prmt5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Archaic Adaptive Introgression in Modern Human Reproductive Genes</title>
-      <link>https://aminthedream.github.io/publication/archaic-adaptive-2024/</link>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://aminthedream.github.io/publication/archaic-adaptive-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Archaic Adaptive Introgression in Modern Human Reproductive Genes</title>
-      <link>https://aminthedream.github.io/publication/archaic-adaptive-circadian-2025/</link>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://aminthedream.github.io/publication/archaic-adaptive-circadian-2025/</guid>
       <description></description>
     </item>
     
@@ -381,7 +381,7 @@ At the promoter (which may or may not contain a TATA box or GC box), general tra
 
 
 
-&lt;div id=&#34;chart-643517892&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-971236458&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -399,7 +399,7 @@ At the promoter (which may or may not contain a TATA box or GC box), general tra
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-643517892&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-971236458&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

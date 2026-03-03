@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Deciphering Colorectal Cancer Progression Through Integrative Epigenomic Analysis for Precision Therapeutic"
 authors:
 - Ghazaleh Tavallaee
 - admin
@@ -11,7 +11,7 @@ publishDate: "2025-05-28T00:00:00Z"
 publication_types: ["3"]  # Preprint
 
 publication: "Journal of Clinical Oncology"
-publication_short: "Deciphering colorectal cancer progression through integrative epigenomic analysis for precision therapeutics"
+publication_short: ""
 
 links:
 - name: Link

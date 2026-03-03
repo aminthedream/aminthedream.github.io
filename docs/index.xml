@@ -80,7 +80,7 @@ At the promoter (which may or may not contain a TATA box or GC box), general tra
     </item>
     
     <item>
-      <title></title>
+      <title>Deciphering Colorectal Cancer Progression Through Integrative Epigenomic Analysis for Precision Therapeutic</title>
       <link>https://aminthedream.github.io/publication/crc-asco/</link>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
       <guid>https://aminthedream.github.io/publication/crc-asco/</guid>
@@ -381,7 +381,7 @@ At the promoter (which may or may not contain a TATA box or GC box), general tra
 
 
 
-&lt;div id=&#34;chart-971236458&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-452839716&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -399,7 +399,7 @@ At the promoter (which may or may not contain a TATA box or GC box), general tra
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-971236458&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-452839716&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
